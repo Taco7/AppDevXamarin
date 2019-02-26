@@ -5601,11 +5601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectUniqueName": "D:\\AppDevXamarin\\App1\\App1.iOS\\App1.iOS.csproj",
       "projectName": "App1.iOS",
-      "projectPath": "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectPath": "D:\\AppDevXamarin\\App1\\App1.iOS\\App1.iOS.csproj",
       "packagesPath": "C:\\Users\\Aditya Verma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1.iOS\\obj\\",
+      "outputPath": "D:\\AppDevXamarin\\App1\\App1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -5622,8 +5622,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1\\App1.csproj"
+            "D:\\AppDevXamarin\\App1\\App1\\App1.csproj": {
+              "projectPath": "D:\\AppDevXamarin\\App1\\App1\\App1.csproj"
             }
           }
         }

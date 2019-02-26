@@ -5,14 +5,12 @@
   <ContentPage Title="My Meetings" />
     <ContentPage Title="Schedule a Meeting">
         <StackLayout>
-        <Label>Select a date</Label>
-        <DatePicker x:Name="datePicker"
+            <Label>Select a date</Label>
+            <DatePicker x:Name="datePicker"
                     Format="D"
-                    MinimumDate = "{Binding MinimumDate}"
-                    MaximumDate = "{Binding MaximumDate}"
-                    DateSelected ="OnDateSelected" />
-
+                    MinimumDate = "02/24/2019"
+                    MaximumDate = "03/24/2019"
+                    DateSelected ="OnDateSelected"/>
         </StackLayout>
     </ContentPage>
-
 </TabbedPage>

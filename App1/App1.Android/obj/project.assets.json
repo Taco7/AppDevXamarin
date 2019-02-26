@@ -4252,11 +4252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1.Android\\App1.Android.csproj",
+      "projectUniqueName": "D:\\AppDevXamarin\\App1\\App1.Android\\App1.Android.csproj",
       "projectName": "App1.Android",
-      "projectPath": "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1.Android\\App1.Android.csproj",
+      "projectPath": "D:\\AppDevXamarin\\App1\\App1.Android\\App1.Android.csproj",
       "packagesPath": "C:\\Users\\Aditya Verma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1.Android\\obj\\",
+      "outputPath": "D:\\AppDevXamarin\\App1\\App1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -4273,8 +4273,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\Users\\Aditya Verma\\source\\repos\\App1\\App1\\App1\\App1.csproj"
+            "D:\\AppDevXamarin\\App1\\App1\\App1.csproj": {
+              "projectPath": "D:\\AppDevXamarin\\App1\\App1\\App1.csproj"
             }
           }
         }

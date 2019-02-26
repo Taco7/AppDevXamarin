@@ -15,8 +15,6 @@ namespace App1.Views
         public TabbedPage1 ()
         {
             InitializeComponent();
-            DateTime MinimumDate = DateTime.Now;
-            DateTime MaximumDate = DateTime.Now.AddMonths(1);
         }
 
         void OnDateSelected(object sender, DateChangedEventArgs args)

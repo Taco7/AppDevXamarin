@@ -12,3 +12,17 @@ c:\users\aditya verma\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.
 c:\Users\aditya verma\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 C:\Users\Aditya Verma\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\Views\TabbedPage1.xaml.g.cs
 C:\Users\Aditya Verma\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AppDevXamarin\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\AppDevXamarin\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\AppDevXamarin\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\Views\TabbedPage1.xaml.g.cs
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\AppDevXamarin\App1\App1\obj\Debug\netstandard2.0\App1.pdb

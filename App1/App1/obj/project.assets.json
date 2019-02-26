@@ -3014,11 +3014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\aditya verma\\source\\repos\\App1\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "D:\\AppDevXamarin\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "c:\\Users\\aditya verma\\source\\repos\\App1\\App1\\App1\\App1.csproj",
+      "projectPath": "D:\\AppDevXamarin\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\Aditya Verma\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\aditya verma\\source\\repos\\App1\\App1\\App1\\obj\\",
+      "outputPath": "D:\\AppDevXamarin\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
